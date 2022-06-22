@@ -95,3 +95,32 @@ body {
     border: 5px solid #BCB9B5;
     background-color: #F3F1EE;
 }
+
+/* list about */
+
+.list-about {
+    height: 100px;
+}
+
+#industries-left {
+    width: 40%;
+    margin: 10px 40px 30px 50px;
+    padding: 15px;
+    float: left;
+    list-style: inside;
+    border-style: none;
+    float: left;
+    border: 5px #BCB9B5;
+    background-color: #F3F1EE;
+}
+
+#offer-right {
+    width: 40%;
+    margin: 10px 40px 30px 50px;
+    padding: 15px;
+    float: right;
+    list-style: inside;
+    float: right;
+    border: 5px #BCB9B5;
+    background-color: #F3F1EE;
+}
