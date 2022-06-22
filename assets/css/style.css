@@ -72,3 +72,26 @@ body {
     letter-spacing: 2px;
     margin: 100px
 }
+
+/* section-text about us */
+
+.text-about {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#text-one {
+    margin: 100px;
+    padding: 10px;
+    border: 5px solid #BCB9B5;
+    background-color: #F3F1EE;
+
+}
+
+#text-two {
+    margin: 100px;
+    padding: 10px;
+    border: 5px solid #BCB9B5;
+    background-color: #F3F1EE;
+}
