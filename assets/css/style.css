@@ -17,3 +17,38 @@ body {
 
 /* heading and logo */
 
+#logo {
+    font-family: Poppins, sans-serif;
+    color: #8D8B88;
+    font-size: 230%;
+    letter-spacing: 3px;
+    float: left;
+    margin-left: 90px;
+    line-height: 95px;
+    text-transform: uppercase;
+}
+
+#menu {
+    font-size: 90%;
+    line-height: 95px;
+    letter-spacing: 2px;
+    list-style: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #757471;
+}
+
+#menu li {
+    float: right;
+    margin-right: 40px;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #464544;
+}
+
+.active {
+    border-bottom: 2px solid #464544;
+}
