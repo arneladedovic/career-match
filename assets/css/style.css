@@ -148,3 +148,24 @@ body {
     padding: 50px;
     box-sizing: border-box;
 }
+
+/* footer */
+
+footer {
+    height: 100px;
+}
+
+.social-media i {
+font-size: 170%;
+margin: 30px;
+color: #8D8B88;
+
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+}
