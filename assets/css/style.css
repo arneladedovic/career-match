@@ -52,3 +52,23 @@ body {
 .active {
     border-bottom: 2px solid #464544;
 }
+
+/* main image and text */
+
+#main-image {
+    height: auto;
+    width: 100%;
+    background: url("../images/main-desk.jpg") no-repeat, center;
+    overflow: hidden;
+    background-size: cover;
+}
+
+#main-text h4 {
+    width: 300px;
+    height: 200px;
+    color: #F9F8F6;
+    font-family: Poppins, sans-serif;
+    font-size: 120%;
+    letter-spacing: 2px;
+    margin: 100px
+}
