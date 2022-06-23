@@ -46,11 +46,11 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #464544;
+    border-bottom: 2px solid #757471;
 }
 
 .active {
-    border-bottom: 2px solid #464544;
+    border-bottom: 2px solid #757471;
 }
 
 /* main image and text */
