@@ -5,3 +5,6 @@ CareerMatch is a company that arranges job fairs around Sweden where employees h
 CareerMatch's goal is to reduce unemployment in Sweden and contribute to increased health among workers and through this website we want to reach out to anyone who wants to change jobs or is looking for a job.
 
 Welcome to visit our website <a href="https://arneladedovic.github.io/career-match/index.html" target="_blank" rel="noopener"> CareerMatch </a> to read more about our fairs. 
+
+![Career Match's Responsive Design](assets/images/career-match.png)
+
