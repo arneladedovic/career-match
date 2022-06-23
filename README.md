@@ -87,7 +87,7 @@ Career Match's site is set up to be easy to read and find the information you ne
     
    * The colour scheme chosen was based on a modern and calming feeling. 
 
-![Colour Scheme](assets/images/readme.images/colour-scheme.png)
+![Colour Scheme](assets/images/readme.images/color-scheme.png)
 
 * ### Typography 
 
@@ -119,3 +119,13 @@ The tests images below are from HTML-Validator and CSS-Validator
 It was easily fixed by changing out the < section> to a < div>. 
 
 * #### Unresolved bugs: none.
+
+## Additional Testing
+
+### Lighthouse
+
+CareerMatch was also tested through Google Lighthouse for each page. See images for each page below. 
+
+![Home-Lighthouse-Test](assets/images/readme.images/home-lg.png)
+![Prepare-Lighthouse-Test](assets/images/readme.images/prepare-lg.png)
+![SignUp-Lighthouse-Test](assets/images/readme.images/signup-lg.png)
