@@ -94,3 +94,20 @@ Career Match's site is set up to be easy to read and find the information you ne
     * The fonts chosen was 'Poppins Semibold 600' for headings and 'Poppins Light 300' for the body text. 
 
     * The 'Poppins Semibold 600' gave the headings a bold and visible text and the 'Poppins Light 300' gave the bodytext a light but easy to read text. 
+
+## Testing
+
+* The CareerMatch has been tested. The codes has been run through the WC3 HTML Validator and WC3 CSS Validator. 
+The tests images below are from HTML-Validator and CSS-Validator
+  
+    * Home Page:
+    ![Home Page - Test: HTML](assets/images/readme.images/test-home-html.png)
+    ![Home Page - Test: CSS](assets/images/readme.images/test-home-css.png)
+
+    * Prepare Page:
+    ![Prepare Page - Test: HTML](assets/images/readme.images/test-prepare-html.png)
+    ![Prepare Page - Test: CSS](assets/images/readme.images/test-prepare-css.png)
+
+    * Sign Up Page:
+    ![Sign Up Page - Test: HTML](assets/images/readme.images/test-signup-html.png)
+    ![Sign Up Page - Test: CSS](assets/images/readme.images/test-signup-css.png)
