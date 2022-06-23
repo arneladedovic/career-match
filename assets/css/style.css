@@ -82,16 +82,16 @@ body {
 }
 
 #text-one {
-    margin: 100px;
-    padding: 10px;
+    margin: 50px;
+    padding: 18px;
     border: 5px solid #BCB9B5;
     background-color: #F3F1EE;
 
 }
 
 #text-two {
-    margin: 100px;
-    padding: 10px;
+    margin: 50px;
+    padding: 18px;
     border: 5px solid #BCB9B5;
     background-color: #F3F1EE;
 }
@@ -103,8 +103,8 @@ body {
 }
 
 #industries-left {
-    width: 40%;
-    margin: 10px 40px 30px 50px;
+    margin-left: 10%;
+    margin-bottom: 50px;
     padding: 15px;
     float: left;
     list-style: inside;
@@ -114,8 +114,8 @@ body {
 }
 
 #offer-right {
-    width: 40%;
-    margin: 10px 40px 30px 50px;
+    margin-right: 10%;
+    margin-bottom: 50px;
     padding: 15px;
     float: right;
     list-style: inside;
@@ -159,8 +159,8 @@ body {
 list-style: inside;
 border: solid 5px #BCB9B5;
 background-color: #F3F1EE;
-padding: 30px;
-margin: 50px;
+padding: 40px;
+margin: 60px;
 text-align: center;
 }
 
@@ -168,8 +168,8 @@ text-align: center;
     list-style: inside;
     border: solid 5px #BCB9B5;
     background-color: #F3F1EE;
-    padding: 30px;
-    margin: 50px;
+    padding: 40px;
+    margin: 60px;
     text-align: center;
 }
 
@@ -177,8 +177,8 @@ text-align: center;
     list-style: inside;
     border: solid 5px #BCB9B5;
     background-color: #F3F1EE;
-    padding: 30px;
-    margin: 50px;
+    padding: 40px;
+    margin: 60px;
     text-align: center;
 }
 
@@ -282,6 +282,16 @@ color: #8D8B88;
 
 @media screen and (max-width: 650px) {
 
+    #text-one {
+        margin: 35px;
+        padding: 18px;
+    }
+
+    #text-two {
+        margin: 35px;
+        padding: 18px;
+    }
+
     .sign-up {
         margin: 50px 70px 70px 30px;
         padding: 0px;
@@ -340,18 +350,19 @@ color: #8D8B88;
         font-size: 100%;
         padding: 10px;
         margin: 20px;
+        display: block;
     }
 
     #industries-left {
-        margin-left: 30%;
         padding: 10px 30px 10px 20px;
         border-width: 50px;
+        margin-right: 40px;
     }
 
     #offer-right {
-        margin-right: 30%;
         padding: 10px 30px 10px 20px;
         border-width: 50px;
+        margin-left: 40px;
     }
 }
 
