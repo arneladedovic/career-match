@@ -111,3 +111,11 @@ The tests images below are from HTML-Validator and CSS-Validator
     * Sign Up Page:
     ![Sign Up Page - Test: HTML](assets/images/readme.images/test-signup-html.png)
     ![Sign Up Page - Test: CSS](assets/images/readme.images/test-signup-css.png)
+
+### Known Bugs
+
+* One bug became known during the validation stage, see image below. 
+![Bug-HTML](assets/images/readme.images/error-html.png)
+It was easily fixed by changing out the < section> to a < div>. 
+
+* #### Unresolved bugs: none.
