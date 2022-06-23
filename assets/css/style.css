@@ -253,8 +253,15 @@ color: #8D8B88;
 
 /* Media queries */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1500px) {
     
+    .fair-calender div {
+        width: 100%;
+        height: 150px;
+        clear: both;
+        float: left;
+        padding: 0;
+    }
 }
 
 @media screen and (max-width: 950px) {
