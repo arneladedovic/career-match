@@ -154,4 +154,4 @@ The live link can be found here: https://arneladedovic.github.io/career-match/
 ## Acknowledgements
 CareerMatch was completed as a Porfolio 1 Project for the Full Stack Software Developer education at the [Code Institute](https://codeinstitute.net/). I would like to thank the Slack Community, Code Institute and my mentor for the help and support during this project. 
 
-### **Arnela Dedovic.**
+### **Arnela Dedovic, 2022.**
