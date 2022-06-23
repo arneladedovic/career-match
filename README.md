@@ -140,3 +140,15 @@ CareerMatch was also tested through Google Lighthouse for each page. See images 
     * Once the 'main' branch has been selected, the page will automatically be refreshed with a detailed ribbon display to indicate the successful deployment!
 
 The live link can be found here: https://arneladedovic.github.io/career-match/
+
+## Credits
+
+* ### Content
+    * The font came from: [Google Fonts](https://fonts.google.com/)
+    * The color palette was created on: [Adobe Color](https://color.adobe.com/sv/create/color-wheel) 
+    * The icons came from: [Font Awesome](https://fontawesome.com/)
+
+* ### Media
+    * The photos used on the pages came from: [Pexels](https://www.pexels.com/sv-se/) and [Pixabay](https://pixabay.com/)
+
+    
