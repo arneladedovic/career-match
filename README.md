@@ -81,3 +81,16 @@ Career Match's site is set up to be easy to read and find the information you ne
 
 * CareerMatch has three pages. The "About Us" is the default page and the Prepare and Sign Up are accessible through the Navigation Menu.
 
+## Design
+
+* ### Color Scheme
+    
+   * The colour scheme chosen was based on a modern and calming feeling. 
+
+![Colour Scheme](assets/images/readme.images/colour-scheme.png)
+
+* ### Typography 
+
+    * The fonts chosen was 'Poppins Semibold 600' for headings and 'Poppins Light 300' for the body text. 
+
+    * The 'Poppins Semibold 600' gave the headings a bold and visible text and the 'Poppins Light 300' gave the bodytext a light but easy to read text. 
