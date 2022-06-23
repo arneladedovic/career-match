@@ -70,3 +70,9 @@ Career Match's site is set up to be easy to read and find the information you ne
 
 * A page with information about job vacancies.
 
+## Technologies Used
+
+* GitHub - used to deploy the website.
+* GitPod - used to edit the website.
+* HTML5 - provides structure and content for the website.
+* CSS - provides the styling.
