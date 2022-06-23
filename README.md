@@ -151,4 +151,7 @@ The live link can be found here: https://arneladedovic.github.io/career-match/
 * ### Media
     * The photos used on the pages came from: [Pexels](https://www.pexels.com/sv-se/) and [Pixabay](https://pixabay.com/)
 
-    
+## Acknowledgements
+CareerMatch was completed as a Porfolio 1 Project for the Full Stack Software Developer education at the [Code Institute](https://codeinstitute.net/). I would like to thank the Slack Community, Code Institute and my mentor for the help and support during this project. 
+
+### **Arnela Dedovic.**
