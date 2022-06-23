@@ -285,19 +285,44 @@ color: #8D8B88;
         font-size: 200%;
     }
 
+    #main-image {
+        height: auto;
+        width: 100%;
+        background: url("../images/main-desk.jpg") no-repeat, center;
+        overflow: hidden;
+        background-size: cover;
+    }
+    
+    #main-text h4 {
+        width: 250px;
+        height: 200px;
+        color: #F9F8F6;
+        font-family: Poppins, sans-serif;
+        font-size: 100%;
+        letter-spacing: 2px;
+        margin: 100px 100px 100px 30px;
+        float: left;
+    }
+
 }
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 375px) {
 
     #menu {
-        font-size: 80%;
+        font-size: 85%;
         clear: left;
         float: left;
-        margin: 10px;
+        margin: 20px;
     }
 
     #logo {
         font-size: 180%;
         margin-left: 20px;
     }
+
+    #menu li {
+        float: left;
+        clear: left;
+    }
+    
 }
