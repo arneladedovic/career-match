@@ -76,3 +76,8 @@ Career Match's site is set up to be easy to read and find the information you ne
 * GitPod - used to edit the website.
 * HTML5 - provides structure and content for the website.
 * CSS - provides the styling.
+
+## Site Structure
+
+* CareerMatch has three pages. The "About Us" is the default page and the Prepare and Sign Up are accessible through the Navigation Menu.
+
