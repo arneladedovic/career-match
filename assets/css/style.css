@@ -273,6 +273,7 @@ color: #8D8B88;
 
 }
 
+
 @media screen and (max-width: 550px) {
 
     #menu {
@@ -310,6 +311,17 @@ color: #8D8B88;
         margin: 20px;
     }
 
+    #industries-left {
+        margin-left: 30%;
+        padding: 10px 30px 10px 20px;
+        border-width: 50px;
+    }
+
+    #offer-right {
+        margin-right: 30%;
+        padding: 10px 30px 10px 20px;
+        border-width: 50px;
+    }
 }
 
 @media screen and (max-width: 375px) {
@@ -336,5 +348,21 @@ color: #8D8B88;
         padding: 10px;
         margin: 10px;
     }
+   
+        #industries-left {
+            width: 200px;
+            margin-left: 20%;
+            margin-right: 20%;
+            padding: 10px 30px 10px 20px;
+
+        }
     
+        #offer-right {
+            width: 200px;
+            margin-left: 20%;
+            margin-right: 20%;
+            padding: 10px 30px 10px 20px;
+        }
+    
+
 }
