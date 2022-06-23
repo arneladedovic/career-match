@@ -195,7 +195,7 @@ text-align: center;
 .sign-up {
     color: #5E5C5A;
     max-width: 500px;
-    margin: 50px 100px 100px 100px;
+    margin: 50px;
     position: absolute;
     padding: 50px;
 }
@@ -227,7 +227,7 @@ text-align: center;
 
 
 #gbg, #sthlm, #mmo {
-    margin: 5px;
+    margin: 10px;
 }
 
 /* footer */
@@ -264,7 +264,7 @@ color: #8D8B88;
     }
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 850px) {
 
     #menu {
         clear: left;
@@ -284,14 +284,14 @@ color: #8D8B88;
 
     .sign-up {
         margin: 50px 70px 70px 30px;
-        padding: 50px;
+        padding: 0px;
         clear: left;
         float: left;
     }
 
     #sthlm, #gbg, #mmo {
-        margin-left: 30px;
-        margin-bottom: 20px;
+        margin-left: 5px;
+        margin-bottom: 14x;
     }
 
     .form-section {
@@ -309,11 +309,12 @@ color: #8D8B88;
     #menu {
         clear: left;
         float: left;
-        margin: 20px;
+        margin: 12px;
     }
 
     #logo {
         font-size: 200%;
+        margin-left: 12px;
     }
 
     #main-image {
@@ -360,12 +361,12 @@ color: #8D8B88;
         font-size: 85%;
         clear: left;
         float: left;
-        margin: 20px;
+        margin: 12px;
     }
 
     #logo {
         font-size: 180%;
-        margin-left: 20px;
+        margin-left: 12px;
     }
 
     #menu li {
