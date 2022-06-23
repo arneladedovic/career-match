@@ -6,5 +6,6 @@ CareerMatch's goal is to reduce unemployment in Sweden and contribute to increas
 
 Welcome to visit our website <a href="https://arneladedovic.github.io/career-match/index.html" target="_blank" rel="noopener"> CareerMatch </a> to read more about our fairs. 
 
-![Career Match's Responsive Design](assets/images/career-match.png)
+![Career Match's Responsive Design](assets/images/readme.images/career-match.png)
+
 
