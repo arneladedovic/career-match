@@ -129,3 +129,14 @@ CareerMatch was also tested through Google Lighthouse for each page. See images 
 ![Home-Lighthouse-Test](assets/images/readme.images/home-lg.png)
 ![Prepare-Lighthouse-Test](assets/images/readme.images/prepare-lg.png)
 ![SignUp-Lighthouse-Test](assets/images/readme.images/signup-lg.png)
+
+## Deployment
+
+### To deploy the project:
+* The site was deployed to GitHub Pages. The steps to deploy are as follows:
+    * In the GitHub repository, go to the Settings tab
+    * Navigate to the Pages on the left side
+    * Under Source, select the branch to 'main', then click save
+    * Once the 'main' branch has been selected, the page will automatically be refreshed with a detailed ribbon display to indicate the successful deployment!
+
+The live link can be found here: https://arneladedovic.github.io/career-match/
