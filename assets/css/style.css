@@ -195,7 +195,7 @@ text-align: center;
 .sign-up {
     color: #5E5C5A;
     max-width: 500px;
-    margin: 100px;
+    margin: 50px 100px 100px 100px;
     position: absolute;
     padding: 50px;
 }
@@ -280,6 +280,29 @@ color: #8D8B88;
 
 }
 
+@media screen and (max-width: 650px) {
+
+    .sign-up {
+        margin: 50px 70px 70px 30px;
+        padding: 50px;
+        clear: left;
+        float: left;
+    }
+
+    #sthlm, #gbg, #mmo {
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+
+    .form-section {
+        height: 650px;
+        background-size: cover;
+        background-position: center;
+        clear: left;
+    }
+
+}
+
 
 @media screen and (max-width: 550px) {
 
@@ -356,20 +379,27 @@ color: #8D8B88;
         margin: 10px;
     }
    
-        #industries-left {
-            width: 200px;
-            margin-left: 20%;
-            margin-right: 20%;
-            padding: 10px 30px 10px 20px;
+    #industries-left {
+        width: 200px;
+        margin-left: 20%;
+        margin-right: 20%;
+        padding: 10px 30px 10px 20px;
 
-        }
+    }
     
-        #offer-right {
-            width: 200px;
-            margin-left: 20%;
-            margin-right: 20%;
-            padding: 10px 30px 10px 20px;
-        }
+    #offer-right {
+    width: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px 30px 10px 20px;
     
+    }
+
+    .form-section {
+        height: 680px;
+        background-size: cover;
+        background-position: center;
+        clear: left;
+    }
 
 }
