@@ -251,6 +251,12 @@ color: #8D8B88;
     display: inline;
 }
 
+#thank-you-footer {
+    position: fixed;
+    bottom: 0%;
+    margin-left: 50%;
+}
+
 /* Media queries */
 
 @media screen and (max-width: 1500px) {
@@ -363,6 +369,7 @@ color: #8D8B88;
         border-width: 50px;
         margin-left: 40px;
     }
+
 }
 
 @media screen and (max-width: 375px) {
