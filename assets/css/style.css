@@ -139,7 +139,7 @@ body {
     width: 32%;
     height: auto;
     color: #F3F1EE;  
-    background-color: rgba(0,0,0, .3);
+    background-color: rgba(0,0,0, .4);
     text-align: center;
     float: left;
     margin: 10px;
@@ -218,7 +218,7 @@ text-align: center;
     font-size: 100%;
     margin-top: 20px;
     background-color: #ebe8e3;
-    color:#BCB9B5;
+    color:#5E5C5A;
     border-radius: 2px;
     padding: 15px 20px 15px 20px;
     text-align: center;
@@ -269,6 +269,8 @@ color: #8D8B88;
         padding: 0;
     }
 }
+
+
 
 @media screen and (max-width: 850px) {
 
@@ -418,6 +420,10 @@ color: #8D8B88;
         background-size: cover;
         background-position: center;
         clear: left;
+    }
+
+    .fair-calender div {
+        margin: auto;
     }
 
 }
