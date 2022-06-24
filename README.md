@@ -97,7 +97,7 @@ Career Match's site is set up to be easy to read and find the information you ne
 
 ## Testing
 
-* The CareerMatch has been tested. The codes has been run through the WC3 HTML Validator and WC3 CSS Validator. 
+* CareerMatch has been tested for validation. The codes has been run through the WC3 HTML Validator and WC3 CSS Validator. 
 The tests images below are from HTML-Validator and CSS-Validator
   
     * Home Page:
@@ -111,6 +111,12 @@ The tests images below are from HTML-Validator and CSS-Validator
     * Sign Up Page:
     ![Sign Up Page - Test: HTML](assets/images/readme.images/test-signup-html.png)
     ![Sign Up Page - Test: CSS](assets/images/readme.images/test-signup-css.png)
+
+* CareerMatch has been tested for being responsive using the devtools. The functions on all standard screen sizes looks good and the functions are working.
+
+* CareerMatch has been tested in different browsers and works in: Chrome, Firefox, Safari and Microsoft Edge
+
+* CareerMatch's Sign-up form works: it requires entries in every field. The email will only accept an email and the submit button works.
 
 ### Known Bugs
 
