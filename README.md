@@ -141,6 +141,29 @@ CareerMatch was also tested through Google Lighthouse for each page. See images 
 
 The live link can be found here: https://arneladedovic.github.io/career-match/
 
+![Deploy Project](assets/images/readme.images/deployment.png)
+
+### To fork the repository on GitHub:
+
+* A copy of the repository on GitHub can be made by forking the GitHub account. The steps to fork the repository are as follows: 
+    * Log in to GitHub and locate the repository: 
+    * On the right side of the page is a button called 'Fork'. 
+    * Click on the button to create a copy of the original repository
+
+![Fork Repository](assets/images/readme.images/fork.png)
+
+### To create a clone of the project:
+
+* The steps to clone the project are as follows:
+    * Under the repository, click on the code tab
+    * In the 'Clone with HTTPS'-section, click on the clipboard icon to cope the given URL
+    * In your IDE of choice - open Git Bash
+    * Change the directory to the location where you want the cloned directory to be made
+    * Type 'Git Clone' and paste the URL copy
+    * Press 'enter' and the clone will be created
+
+![Clone Project](assets/images/readme.images/clone.png)
+
 ## Credits
 
 * ### Content
